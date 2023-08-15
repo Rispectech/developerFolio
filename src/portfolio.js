@@ -14,9 +14,9 @@ const greeting = {
   username: "Rishabh Verma",
   title: "Hi all, I'm Rishabh",
   subTitle:
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web  with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks with interest in Image processing as well .",
+    "A passionate Full Stack Software Developer 🚀 having an experience of building Web  with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks with interest in Artificial Intelligence , Image Processing and BlockChain as well .",
   resumeLink:
-    "https://drive.google.com/file/d/1dhxxevUOwSIBuZqVjv4W6RsRjt4ov1lI/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/drive/folders/1WL5AtGGsJ0yzihR_2wm5sksQG3x5Vvvo", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
